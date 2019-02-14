@@ -1,4 +1,5 @@
 baseurl: /jekyll_tutorial
+permalink: pretty
 
 collections:
   authors:
