@@ -1,6 +1,11 @@
 baseurl: /jekyll_tutorial
 permalink: pretty
 
+gems:
+  - jekyll-paginate
+
+paginate: 2
+
 collections:
   authors:
     output: true
