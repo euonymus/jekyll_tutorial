@@ -1,5 +1,4 @@
 baseurl: /jekyll_tutorial
-permalink: pretty
 
 gems:
   - jekyll-paginate
